@@ -1,0 +1,46 @@
+
+
+CLASS---1
+SQL:
+   In order to understand SQL,we have to first understand  different Database Concept like:
+      1.Database
+      2.DBMS
+      3.Data Models
+      4.RDBS
+      5.SQL etc..
+    1.Database
+       The place we can store the related data and later retrive the data is known as Database
+          Storing the related data like employee ID,employee name,employee salary,department etc. can be stored 
+          Retriving the data based on some conditions
+    2.Database Management Systems
+       Shortly called as DBMS
+       Software that stores data in databases in an an organised way to make it easier to create, retrive, update etc..
+       examples: DBase, FoxPro, MYSQLL, Oracle, MangoDB, SQLite, Cassandra and many more
+    3.Data Models
+        Define how related data is connected to each other and stored inside the database.
+        Types of Data Models:
+             Hierarchical Model
+             Network Model
+             Entity-Relationship model
+             Relational model: 
+                   Data is stored in the form of tables
+                   Tables organize the data in the form of rows and columns
+                   It is a popular and widely used by most of the DBMS Software 
+     4.RDBMS
+         DBMS using relational data models are known as RDBMS
+         Employes for RDBMS Software:
+            1.Oracle
+            2.MS-SQL Server
+            3.DB2
+            4.MYSQL 
+            5.MS-ACCESS
+            6.etc...
+     5.SQL
+        Programming language for relational database
+        stands for structured Quary language 
+        The following things can be performed on Database using SQL:
+            Inserting data 
+            Retrieving data
+            Updating data
+            Deleting data
+            and many more  
